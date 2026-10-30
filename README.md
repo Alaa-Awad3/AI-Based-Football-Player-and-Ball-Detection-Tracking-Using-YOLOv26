@@ -25,20 +25,11 @@ The file [`Inference Output.avi`](Inference%20Output.avi) shows the model's dete
 
 ## Dataset
 
-> Describe the dataset here: name and source, number of images/frames, classes, annotation format, and the train/validation/test split.
+Football Player Detection YOLOv8 https://www.kaggle.com/datasets/iasadpanwhar/football-player-detection-yolov8
 
 ## Model and training
 
-> Fill in from your notebook:
->
-> | Setting | Value |
-> |---|---|
-> | Base model | YOLOv26 variant (e.g. n / s / m) |
-> | Epochs | |
-> | Image size | |
-> | Batch size | |
-> | Optimizer / learning rate | |
-> | Hardware | |
+YOLOv26
 
 ## Results
 
