@@ -50,7 +50,7 @@ YOLOv26
 ## Limitations and future work
 
 - Small, fast-moving objects like the ball are harder to detect, especially when blurred or occluded
-- Players can swap or lose IDs when they cross or are occluded
+- Class imbalance between the ball and football player classes
 - Possible extensions: team classification by jersey color, player speed and distance, ball possession, and heatmaps
 
 ## Citation and acknowledgements
