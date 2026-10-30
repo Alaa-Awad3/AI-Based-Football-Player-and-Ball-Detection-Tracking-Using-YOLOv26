@@ -35,11 +35,6 @@ YOLOv26
 
 <img width="2400" height="1200" alt="results (2)" src="https://github.com/user-attachments/assets/da3ebe81-6571-4fee-97dc-646ff578f101" />
 
-| Class | Precision | Recall | mAP@0.5 | mAP@0.5:0.95 |
-|---|---|---|---|---|
-| Player | | | | |
-| Ball | | | | |
-
 ---
 
 ## Repository contents
